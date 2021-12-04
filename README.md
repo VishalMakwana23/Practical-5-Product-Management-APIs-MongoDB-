@@ -23,7 +23,7 @@
 - product ids : Array of String
 
 
-GET, POST, PUT, DELETE REQUESTS:
+## GET, POST, PUT, DELETE REQUESTS:
 
 
 <------ ADD ------>
